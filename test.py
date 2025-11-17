@@ -26,9 +26,9 @@ def main():
     """메인 함수"""
     print("=== 간단한 계산기 ===")
     print("1. 덧셈")
-    print("2. 뺄셈")
-    print("3. 곱셈")
-    print("4. 나눗셈")
+    print("2. 뺄셈은 어떻게 하지?")
+    print("3. 곱셈은 어떻게 하지?")
+    print("4. 나눗셈은 어떻게 하지?")
     print("5. 종료")
 
     while True:
