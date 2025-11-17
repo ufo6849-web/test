@@ -17,7 +17,7 @@ def main():
             name = input("이름을 입력하세요: ")
             print(greet(name))
     except (KeyboardInterrupt, EOFError):
-        print("\n안녕히 가세요.")
+        print("\n안녕 GOOD_BYE.")
 
 if __name__ == "__main__":
     main()
